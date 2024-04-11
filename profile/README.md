@@ -17,7 +17,7 @@ Welcome to my FIAP code repository! This repository is intended to store codes f
 
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,python,cpp)](https://skillicons.dev)
 
- ### [Computional Thinking With Python](https://github.com/orgs/Rafafaaa-FIAP/repositories?q=CTP+sort%3Aname-asc)
+ ### [Computional Thinking With Python](https://github.com/orgs/FI4P/repositories?q=Python)
  ### [Edge Computing & Computer Systems](https://github.com/orgs/Rafafaaa-FIAP/repositories?q=EDG+sort%3Aname-asc)
  ### [Front-End Design](https://github.com/orgs/Rafafaaa-FIAP/repositories?q=FRO+sort%3Aname-asc)
  ### [Web Development](https://github.com/orgs/Rafafaaa-FIAP/repositories?q=WEB+sort%3Aname-asc)
