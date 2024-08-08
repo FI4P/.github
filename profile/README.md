@@ -25,3 +25,22 @@ Welcome to my FIAP code repository! This repository is intended to store codes f
 
 </div>
 
+
+<br>
+
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F73175&random=false&width=435&lines=Year+2+-+Subjects+%E2%96%BC)](https://git.io/typing-svg)
+
+<div>
+  
+  <h3>Technologies used: </h3>
+
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,python,cpp)](https://skillicons.dev)
+
+ ### [Computional Thinking With Python](https://github.com/orgs/FI4P/repositories?q=Python)
+ ### [Edge Computing & Computer Systems](https://github.com/orgs/FI4P/repositories?q=Edge)
+ ### [Front-End Design](https://github.com/orgs/FI4P/repositories?q=Front)
+ ### [Web Development](https://github.com/orgs/FI4P/repositories?q=Web)
+ ### [Global Solution](https://github.com/orgs/FI4P/repositories?q=Global)
+
+</div>
+
